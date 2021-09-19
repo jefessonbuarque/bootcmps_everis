@@ -1,13 +1,13 @@
-cursos concluidos:
+#cursos concluidos:
 
-aprenda estruturas de dados e algoritimos
-introducao e orquestracao e conteiner com docker
-introduccao a orientacao a objetos
-fundamentos de arquiteturas de sistemas
-desenvolvendo um sistema de gerenciamento de pessoas api rest com spring boot
-estrutura de dados em java
-arquitetura de sistemas avancado
-linux a introducao de sistemas
-introducap ao framework spring
-shell script manipulndo
-introducao ao git e ao github
+# aprenda estruturas de dados e algoritimos
+# introducao e orquestracao e conteiner com docker
+# introduccao a orientacao a objetos
+# fundamentos de arquiteturas de sistemas
+# desenvolvendo um sistema de gerenciamento de pessoas api rest com spring boot
+# estrutura de dados em java
+# arquitetura de sistemas avancado
+# linux a introducao de sistemas
+# introducap ao framework spring
+# shell script manipulndo
+# introducao ao git e ao github
